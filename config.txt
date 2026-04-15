@@ -1,1 +1,4 @@
 app_config=true
+# DevOps Git Fundamentals Project
+
+This project demonstrates Git basics including staging and committing.
